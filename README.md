@@ -1,0 +1,2 @@
+# billrecognizer
+Taller IA
