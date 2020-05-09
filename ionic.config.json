@@ -1,0 +1,7 @@
+{
+  "name": "BillRecognizer",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
